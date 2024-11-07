@@ -1,4 +1,5 @@
-# conus404-metadata
+# conus404_metadata
+
 The workflows and files in this repository were initially created as part of the ScienceBase data release process.
 The `metadata_output_files` directory contains the current official metadata files for CONUS404 model output. These
 files were used to provide useful metadata on ScienceBase about the variables contained in the model output files.
